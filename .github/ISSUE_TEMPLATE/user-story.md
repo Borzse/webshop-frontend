@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
-As an "...",
-I want to "...",
-so that "...".
+# User Story
+
+As an ...
+I want to ...
+so that ....
+
+# Acceptance Criteria
+
+
+# Definition of Done
